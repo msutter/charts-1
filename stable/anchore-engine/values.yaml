@@ -173,7 +173,7 @@ anchoreGlobal:
   webhooks:
     # User and password to be set (using HTTP basic auth) on all webhook calls if necessary
     webhook_user: Null
-    webhook_password: Null
+    webhook_pass: Null
     ssl_verify: true
 
     # Endpoint for general notification delivery. These events are image/tag updates etc. This is globally configured
